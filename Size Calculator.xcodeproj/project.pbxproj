@@ -7,15 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		909818AE20F760A400A17909 /* PriceWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 909818AD20F760A400A17909 /* PriceWebViewController.swift */; };
 		90DAB91220F13B8100F1F9C2 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90DAB91120F13B8100F1F9C2 /* AppDelegate.swift */; };
 		90DAB91420F13B8100F1F9C2 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90DAB91320F13B8100F1F9C2 /* FirstViewController.swift */; };
 		90DAB91620F13B8100F1F9C2 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90DAB91520F13B8100F1F9C2 /* SecondViewController.swift */; };
 		90DAB91920F13B8100F1F9C2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90DAB91720F13B8100F1F9C2 /* Main.storyboard */; };
 		90DAB91B20F13B8200F1F9C2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90DAB91A20F13B8200F1F9C2 /* Assets.xcassets */; };
 		90DAB91E20F13B8200F1F9C2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90DAB91C20F13B8200F1F9C2 /* LaunchScreen.storyboard */; };
+		90DAB92820F143D600F1F9C2 /* ThirdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90DAB92720F143D600F1F9C2 /* ThirdViewController.swift */; };
+		90DAB92E20F22CCA00F1F9C2 /* detailedSizeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90DAB92D20F22CCA00F1F9C2 /* detailedSizeViewController.swift */; };
+		90DAB93020F3CBB600F1F9C2 /* FirstSizeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90DAB92F20F3CBB600F1F9C2 /* FirstSizeViewController.swift */; };
+		90DAB93220F3CBCA00F1F9C2 /* ThirdSizeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90DAB93120F3CBCA00F1F9C2 /* ThirdSizeViewController.swift */; };
+		90DAB93420F3D3ED00F1F9C2 /* AddCustomerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90DAB93320F3D3ED00F1F9C2 /* AddCustomerViewController.swift */; };
+		90DAB93620F3EAFF00F1F9C2 /* AddToCustomerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90DAB93520F3EAFF00F1F9C2 /* AddToCustomerViewController.swift */; };
+		90DAB93820F6091000F1F9C2 /* globalVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90DAB93720F6091000F1F9C2 /* globalVariables.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		909818AD20F760A400A17909 /* PriceWebViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PriceWebViewController.swift; sourceTree = "<group>"; };
 		90DAB90E20F13B8100F1F9C2 /* Size Calculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Size Calculator.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		90DAB91120F13B8100F1F9C2 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90DAB91320F13B8100F1F9C2 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +33,13 @@
 		90DAB91A20F13B8200F1F9C2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90DAB91D20F13B8200F1F9C2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		90DAB91F20F13B8200F1F9C2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90DAB92720F143D600F1F9C2 /* ThirdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewController.swift; sourceTree = "<group>"; };
+		90DAB92D20F22CCA00F1F9C2 /* detailedSizeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detailedSizeViewController.swift; sourceTree = "<group>"; };
+		90DAB92F20F3CBB600F1F9C2 /* FirstSizeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstSizeViewController.swift; sourceTree = "<group>"; };
+		90DAB93120F3CBCA00F1F9C2 /* ThirdSizeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdSizeViewController.swift; sourceTree = "<group>"; };
+		90DAB93320F3D3ED00F1F9C2 /* AddCustomerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddCustomerViewController.swift; sourceTree = "<group>"; };
+		90DAB93520F3EAFF00F1F9C2 /* AddToCustomerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToCustomerViewController.swift; sourceTree = "<group>"; };
+		90DAB93720F6091000F1F9C2 /* globalVariables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = globalVariables.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,11 +74,19 @@
 			children = (
 				90DAB91120F13B8100F1F9C2 /* AppDelegate.swift */,
 				90DAB91320F13B8100F1F9C2 /* FirstViewController.swift */,
+				90DAB92F20F3CBB600F1F9C2 /* FirstSizeViewController.swift */,
 				90DAB91520F13B8100F1F9C2 /* SecondViewController.swift */,
+				90DAB92D20F22CCA00F1F9C2 /* detailedSizeViewController.swift */,
+				90DAB92720F143D600F1F9C2 /* ThirdViewController.swift */,
+				90DAB93120F3CBCA00F1F9C2 /* ThirdSizeViewController.swift */,
+				909818AD20F760A400A17909 /* PriceWebViewController.swift */,
 				90DAB91720F13B8100F1F9C2 /* Main.storyboard */,
 				90DAB91A20F13B8200F1F9C2 /* Assets.xcassets */,
 				90DAB91C20F13B8200F1F9C2 /* LaunchScreen.storyboard */,
 				90DAB91F20F13B8200F1F9C2 /* Info.plist */,
+				90DAB93320F3D3ED00F1F9C2 /* AddCustomerViewController.swift */,
+				90DAB93520F3EAFF00F1F9C2 /* AddToCustomerViewController.swift */,
+				90DAB93720F6091000F1F9C2 /* globalVariables.swift */,
 			);
 			path = "Size Calculator";
 			sourceTree = "<group>";
@@ -138,9 +162,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				909818AE20F760A400A17909 /* PriceWebViewController.swift in Sources */,
+				90DAB92E20F22CCA00F1F9C2 /* detailedSizeViewController.swift in Sources */,
+				90DAB93220F3CBCA00F1F9C2 /* ThirdSizeViewController.swift in Sources */,
+				90DAB93820F6091000F1F9C2 /* globalVariables.swift in Sources */,
 				90DAB91620F13B8100F1F9C2 /* SecondViewController.swift in Sources */,
 				90DAB91220F13B8100F1F9C2 /* AppDelegate.swift in Sources */,
+				90DAB93420F3D3ED00F1F9C2 /* AddCustomerViewController.swift in Sources */,
+				90DAB92820F143D600F1F9C2 /* ThirdViewController.swift in Sources */,
+				90DAB93020F3CBB600F1F9C2 /* FirstSizeViewController.swift in Sources */,
 				90DAB91420F13B8100F1F9C2 /* FirstViewController.swift in Sources */,
+				90DAB93620F3EAFF00F1F9C2 /* AddToCustomerViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
