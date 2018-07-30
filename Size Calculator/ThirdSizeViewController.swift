@@ -2,7 +2,7 @@
 //  ThirdSizeViewController.swift
 //  Size Calculator
 //
-//  Created by 谈铭瑶 on 2018/7/10.
+//  Created by Terry Tan on 2018/7/10.
 //  Copyright © 2018年 Terry Tan. All rights reserved.
 //
 

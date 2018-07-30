@@ -2,7 +2,7 @@
 //  PriceWebViewController.swift
 //  Size Calculator
 //
-//  Created by 谈铭瑶 on 2018/7/12.
+//  Created by Terry Tan on 2018/7/12.
 //  Copyright © 2018年 Terry Tan. All rights reserved.
 //
 
