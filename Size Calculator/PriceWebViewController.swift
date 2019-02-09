@@ -16,8 +16,8 @@ class PriceWebViewController: UIViewController, WKNavigationDelegate {
     override func viewDidLoad() {
         super.viewDidLoad()
         priceWebView.navigationDelegate = self
-        if var url = URL(string: "https://hq.smm.cn/lv"){
-            var request = URLRequest(url: url)
+        if let url = URL(string: "https://hq.smm.cn/lv"){
+            let request = URLRequest(url: url)
             priceWebView.load(request)
         }
         
